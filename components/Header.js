@@ -34,7 +34,7 @@ export default function Header() {
             <Link href={"/"}>
 
               <div style={{ color: "white", fontSize: "21px" }} className="flex flex-shrink-0 items-center">
-                 Crypto
+                 
               </div>
             </Link>
             <div className="hidden sm:ml-6 sm:block">
